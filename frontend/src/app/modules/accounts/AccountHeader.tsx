@@ -35,6 +35,7 @@ const basePrices: Record<Plan, number> = {
   Enterprise: 99,
 };
 
+//Conversion Rates
 const conversionRates = {
   USD: 1,
   GBP: 0.76,
